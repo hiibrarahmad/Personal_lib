@@ -1,1 +1,2 @@
 /libraries-v2.0/database/resistor_database.mdb filter=lfs diff=lfs merge=lfs -text
+libraries-v2.0/database/resistor_database.mdb filter=lfs diff=lfs merge=lfs -text
